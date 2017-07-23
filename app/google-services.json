@@ -1,0 +1,66 @@
+{
+  "project_info": {
+    "project_number": "64865486542",
+    "firebase_url": "https://fb-social-browse.firebaseio.com",
+    "project_id": "fb-social-browse",
+    "storage_bucket": "fb-social-browse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64865486542:android:d2a7d8a77f20b634",
+        "android_client_info": {
+          "package_name": "com.dev.alshikh.fbsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64865486542-b60v8q0sv3pnv7a6lfh0ti47n9u55fqs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.alshikh.fbsocial",
+            "certificate_hash": "d61906d25ad100dffba73ac938da2a82d44c4fba"
+          }
+        },
+        {
+          "client_id": "64865486542-9sjh0mhbhdd3ftu3d94ntm7dav6f2uhf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.alshikh.fbsocial",
+            "certificate_hash": "25e5565294addb379bd303d77c10d837d47c18de"
+          }
+        },
+        {
+          "client_id": "64865486542-jnbl8uh25col6feibmesgq2rm5bveshl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.alshikh.fbsocial",
+            "certificate_hash": "4690ec826078ff2f405b134af9390e26aa4801e6"
+          }
+        },
+        {
+          "client_id": "64865486542-l3sa18oillnfjmnn49tkdsf45c2ic11e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsIeugynDo6H-79XLldDBCQ5sAFuapf_k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
