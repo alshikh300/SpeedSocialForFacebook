@@ -5,5 +5,9 @@
     <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="XML" injector-id="xml">
+      <display-name>LinearLayout/@gravity</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("gravity")).withNamespace(string().equalTo("http://schemas.android.com/apk/res/android")).withParent(xmlTag().withLocalName(string().equalTo("LinearLayout")))]]></place>
+    </injection>
   </component>
 </application>
